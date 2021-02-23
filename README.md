@@ -16,7 +16,7 @@ For this to work you need a router with OpenWrt firmware. If you're unsure what 
 1. Read this document
 2. Connect the router via ethernet
 3. The router should be at IP address 192.168.1.1 or DNS name openwrt
-4. run `bash flash-router.sh`
+4. double click on `flash-Tor.cmd`
 5. wait until the flashing is over
 6. new Wi-Fi will appear according to the settings
     * SSID is "Toriro-2.4ghz" and "Toriro-5.0ghz"
