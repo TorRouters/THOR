@@ -19,7 +19,7 @@ For this to work you need a router with OpenWrt firmware. If you're unsure what 
 4. run `bash flash-router.sh`
 5. wait until the flashing is over
 6. new Wi-Fi will appear according to the settings
-    * SSID is "TorRouter"
+    * SSID is "Toriro-2.4ghz" and "Toriro-5.0ghz"
     * PSK is "TorRouters.com"
 9. All settings can be changed via web at http://change.torrouters.com/
 
