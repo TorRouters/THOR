@@ -23,7 +23,7 @@ For this to work you need a router with OpenWrt firmware. If you're unsure what 
     * PSK is "TorRouters.com"
 9. All settings can be changed via web at http://change.torrouters.com/
 
-[](https://github.com/TorRouters/THOR/blob/main/docs/screencast.gif?raw=true)
+![screen](https://github.com/TorRouters/THOR/blob/main/docs/screencast.gif)
 
 ## Love
 * This project is made possible thanks to 
