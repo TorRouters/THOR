@@ -1,0 +1,1 @@
+0 4 * * * (sh /root/auto-update.sh) &
