@@ -48,4 +48,5 @@ For this to work you need a router with OpenWrt firmware. If you're unsure what 
 * We donate portion of our sales to these projects, consider supporting us.
 * We are constantly working on this script & our routers to make them more secure, available, and support all platform. 
   * Please consider making donations at https://www.buymeacoffee.com/huskyLOVE
-  * and help us spread the word about this exciting project via TorRouters.com 💜
+  * and help us spread the word about this exciting project via https://TorRouters.com 💜
+  * Or buy our routers on the same website: https://torRouters.com
