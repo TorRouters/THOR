@@ -36,6 +36,7 @@ For this to work you need a router with OpenWrt firmware. If you're unsure what 
    * Torch Search Engine - http://xmh57jrzrnw6insl.onion/
    * Ahmia Search Engine - http://msydqstlz2kzerdg.onion
    * Tor Metrics - http://rougmnvswfsmd4dq.onion
+   * Facebook - https://www.facebookcorewwwi.onion/
 * Search in the [Issues](https://github.com/TorRouters/THOR/issues) board
 
 ## Love & Support
