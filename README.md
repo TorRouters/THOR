@@ -29,7 +29,13 @@ For this to work you need a router with OpenWrt firmware. If you're unsure what 
 ## Testing & Troublshoot
 * Sometimes Tor can be down, check at: https://status.torproject.org/
 * Check if your connection is tunneled already: https://check.torproject.org/
-* Check access to .onion website: [Duckduckgo](https://3g2upl4pq6kufc4m.onion/) 
+* Check access to .onion website: 
+   * Duckduckgo - https://3g2upl4pq6kufc4m.onion/ 
+   * CIA - http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/
+   * Secure Drop - https://secrdrop5wyphb5x.onion/
+   * Torch Search Engine - http://xmh57jrzrnw6insl.onion/
+   * Ahmia Search Engine - http://msydqstlz2kzerdg.onion
+   * Tor Metrics - http://rougmnvswfsmd4dq.onion
 * Search in the [Issues](https://github.com/TorRouters/THOR/issues) board
 
 ## Love & Support
