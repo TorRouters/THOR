@@ -104,6 +104,7 @@ if [[ `uci get wireless.@wifi-device[0].channel` ]]; then
     uci set wireless.@wifi-iface[0].key="$wifipass"
     uci set wireless.@wifi-iface[0].encryption='psk2+ccmp'
     uci set wireless.@wifi-device[0].disabled=0
+    uci -q delete wireless.@wifi-device[0].disabled
     uci commit wireless
     wifi reload
 fi
@@ -120,6 +121,7 @@ if [[ `uci get wireless.@wifi-device[1].channel` ]]; then
     uci set wireless.@wifi-iface[1].key="$wifipass"
     uci set wireless.@wifi-iface[1].encryption='psk2+ccmp'
     uci set wireless.@wifi-device[1].disabled=0
+    uci -q delete wireless.@wifi-device[1].disabled
     uci commit wireless
     wifi reload
 fi
