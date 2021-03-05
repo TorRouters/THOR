@@ -127,11 +127,15 @@ fi
 /etc/init.d/cron enable
 /etc/init.d/cron start
 
+html='<a style="padding-left: 35px;" target="_blank" href="https://torRouters.com">Mantained with 💜 by TorRouters.com - visit us for support & more stuff</a>'
+echo "$html" >> /usr/lib/lua/luci/view/footer.htm
+
 uci set system.@system[0].hostname='TorRouter'
 uci set network.lan.ipaddr='192.168.7.1'
 uci commit network
 uci commit system
+
+echo "[+] - finished flashing, wait for TorRouter to appear at 192.168.7.1......"
+
 /etc/init.d/system reload
 /etc/init.d/network reload
-
-echo "finished flashing, wait for TorRouter to appear at 192.168.7.1"
