@@ -4,11 +4,11 @@ bash flash.sh
 
 echo "launching web managment"
 SET chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
-%chrome% -incognito "http://192.168.7.1:8080/"
-%chrome% -incognito "https://check.torproject.org/"
+start "" %chrome% -incognito "http://192.168.7.1/"
+start "" %chrome% -incognito "https://check.torproject.org/"
 
 echo
-echo "Thank you for using our script, please consider supporting us to keep this project alive"
+echo "Thank you for using our script, please consider supporting us to keep this project alive!"
 echo "would you like to open donation page?"
 
 
