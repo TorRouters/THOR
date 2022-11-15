@@ -3,7 +3,7 @@ Tor Hardware Onion Router
 
 ## What is this?
 This is a script written by [torrouters.com](https://torrouters.com/) to flash openwrt compatible routers and make them part of the Tor network. 
-Think about it as torbox but on openWrt routers instead of raspberry pi.
+Think about it as [torbox](https://torbox.ch/) but on openWrt routers instead of raspberry pi.
 
 ## Software Requirments for Windows
 If you're on a Windows machine you will need the following installed:
