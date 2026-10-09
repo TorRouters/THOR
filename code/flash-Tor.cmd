@@ -2,7 +2,7 @@
 cd data
 bash flash.sh
 
-echo "launching web managment"
+echo "[+] - flashing done - launching web managment"
 SET chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 start "" %chrome% -incognito "http://192.168.7.1/"
 start "" %chrome% -incognito "https://check.torproject.org/"
