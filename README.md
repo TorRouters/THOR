@@ -4,6 +4,7 @@ Tor Hardware Onion Router
 ## What is this?
 This is a script written by [torrouters.com](https://torrouters.com/) to flash openwrt compatible routers and make them part of the Tor network. 
 Think about it as [torbox](https://torbox.ch/) but on openWrt routers instead of raspberry pi.
+If you want to buy a preflashed device consider buying it from our [main website](https://torrouters.com/buy).
 
 ## Software Requirments for Windows
 If you're on a Windows machine you will need the following installed:
@@ -42,6 +43,7 @@ For this to work you need a router with OpenWrt firmware. If you're unsure what 
 * This project is made possible thanks to 
   * [Tor Project](https://www.torproject.org/)
   * [OpenWrt Project](https://openwrt.org/)
+  * [FlashedRouter VPN Routers](https://flashedrouter.com/)
 * We donate portion of our sales to these projects, consider supporting us.
 * We are constantly working on this script & our routers to make them more secure, available, and support all platform. 
   * Please consider making donations at https://www.buymeacoffee.com/huskyLOVE
